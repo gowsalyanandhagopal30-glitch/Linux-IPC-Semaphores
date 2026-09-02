@@ -21,6 +21,7 @@ Execute the C Program for the desired output.
 # PROGRAM:
 
 ## Write a C program that implements a producer-consumer system with two processes using Semaphores.
+
 ```
 /*
  * sem.c - Producer-Consumer using Semaphores
@@ -118,17 +119,17 @@ int main() {
 
     return 0;
 }
+
 ```
 
 
 
 ## OUTPUT
+
 $ ./sem.o 
 $ ipcs
-image.png
+![Alt text](image.png)
 
+# RESULT
 
-# RESULT:
-The program is executed successfully.
-
-
+program is executed successfully.
